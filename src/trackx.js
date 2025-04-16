@@ -104,7 +104,7 @@
   
       console.log("Tracking Event:", eventData);
   
-      fetch("https://254e-27-4-42-141.ngrok-free.app/webhook", {
+      fetch("https://69db-106-222-197-88.ngrok-free.app/webhook", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(eventData),
